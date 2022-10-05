@@ -36,7 +36,9 @@ Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 # Run using Docker 
 
 Make sure you have Docker installed 
-You call pull the image from [https://hub.docker.com/r/nitin03/docker-webapp](DockerImage)
+You call pull the image from here [DockerImage](https://hub.docker.com/r/nitin03/docker-webapp)
+</br>
+
 # CI/CD Pipeline
 ![DevOps Project](https://user-images.githubusercontent.com/90847875/194027271-13a8cc82-cdf0-4f95-9ddc-db965e16ef3f.png)
 </br>
