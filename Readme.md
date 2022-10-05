@@ -1,6 +1,4 @@
 # django-todo
-![DevOps Project](https://user-images.githubusercontent.com/90847875/194027271-13a8cc82-cdf0-4f95-9ddc-db965e16ef3f.png)
-</br>
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
@@ -34,5 +32,9 @@ $ python manage.py runserver
 ```
 
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
+
+CI/CD Pipeline
+![DevOps Project](https://user-images.githubusercontent.com/90847875/194027271-13a8cc82-cdf0-4f95-9ddc-db965e16ef3f.png)
+</br>
 
 Cheers and Happy Coding :)
